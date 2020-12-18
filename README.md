@@ -1,8 +1,6 @@
 # MarkDown
 markdown sample
 
-#Examples
-
 **Good Morning! I will show you the features of MarkDown**
 
 *MarkDown is used to style the writing*
