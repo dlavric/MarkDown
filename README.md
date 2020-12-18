@@ -70,4 +70,4 @@ print('****TIME UP****')
 
 Still playing | Eliminated
 ------------- | ----------
-Gigel | Viorel            
+Jane Doe | John Doe            
