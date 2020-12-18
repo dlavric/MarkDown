@@ -26,8 +26,15 @@ Do you want to find out about MarkDown?
   
 * Peanuts
 
-* Pinata: ![Looks like this](https://images-na.ssl-images-amazon.com/images/I/81wnocFvivL._AC_SL1500_.jpg)
+* Pinata: ![Pinata picture](https://images-na.ssl-images-amazon.com/images/I/81wnocFvivL._AC_SL1500_.jpg)
 
+##When the shopping list is completed, please mark the items here:##
+
+- [ ] Pizza
+- [ ] Beer
+- [ ] Peanuts
+- [ ] Pinata
+- [X] Glasses
 
   
   
