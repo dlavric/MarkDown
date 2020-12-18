@@ -9,7 +9,7 @@ markdown sample
 
 
 Do you want to find out about MarkDown?
-Google it: [Google it](http://google.com)
+[Google it](http://google.com)
 
 
 #### Let's have more fun! ####
