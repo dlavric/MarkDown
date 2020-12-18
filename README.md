@@ -3,16 +3,16 @@ markdown sample
 
 #Examples
 
-**Good Morning! This is a bolded text**
+**Good Morning! I will show you the features of MarkDown**
 
-*This is Italic text*
+*MarkDown is used to style the writing*
 
 
 Do you want to find out about MarkDown?
 [Google it](http://google.com)
 
 
-#### Let's have more fun! ####
+#### Let's have more fun and throw a party! ####
 ##### Shopping List for a Party: #####
 
 1.Pizza
@@ -25,6 +25,8 @@ Do you want to find out about MarkDown?
   - non-alcohol
   
 * Peanuts
+
+* Pinata: ![Looks like this](https://images-na.ssl-images-amazon.com/images/I/81wnocFvivL._AC_SL1500_.jpg)
 
 
   
