@@ -41,7 +41,7 @@ Do you want to find out about MarkDown?
 
   @kikitux Hopefully you will be at the party :+1:
   
-  # We will play a game called **__Dancing Chairs__** #
+  # We will play a game called Dancing Chairs #
   ```python
 import time
 import random
