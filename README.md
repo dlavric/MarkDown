@@ -19,10 +19,12 @@ Google it: [link to Google!](http://google.com)
   1. pepperoni
   2. quatro stagioni
   3. capriciosa
+  
 - Beer
   - alcohol
   - non-alcohol
-  * Peanuts
+  
+* Peanuts
   
   
   
