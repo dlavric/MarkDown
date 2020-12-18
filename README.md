@@ -22,13 +22,13 @@ Do you want to find out about MarkDown?
   - alcohol
   - non-alcohol
   
-* Peanuts
+3. Peanuts
 
 * Napkins
   - white
   - blue
 
-* Pinata: ![Pinata picture](https://images-na.ssl-images-amazon.com/images/I/81wnocFvivL._AC_SL1500_.jpg)
+4. Pinata: ![Pinata picture](https://images-na.ssl-images-amazon.com/images/I/81wnocFvivL._AC_SL1500_.jpg)
 
 ## When the shopping list is completed, please mark the items here: ##
 
