@@ -12,8 +12,8 @@ Do you want to find out about MarkDown?
 Google it: [link to Google!](http://google.com)
 
 
-####Let's have more fun!####
-#####Shopping List for a Party:#####
+#### Let's have more fun! ####
+##### Shopping List for a Party: #####
 
 1.Pizza
   1. pepperoni
