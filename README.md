@@ -9,7 +9,7 @@ markdown sample
 
 
 Do you want to find out about MarkDown?
-Google it: [link to Google!](http://google.com)
+Google it: [Google it](http://google.com)
 
 
 #### Let's have more fun! ####
@@ -25,6 +25,8 @@ Google it: [link to Google!](http://google.com)
   - non-alcohol
   
 * Peanuts
+
+
   
   
   
