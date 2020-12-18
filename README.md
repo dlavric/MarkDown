@@ -9,4 +9,4 @@ Examples
 
 
 Do you want to find out about MarkDown?
-[link to Google!](http://google.com)
+Google it: [link to Google!](http://google.com)
