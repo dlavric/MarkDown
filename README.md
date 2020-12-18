@@ -3,10 +3,10 @@ markdown sample
 
 
 ## Table of contents: ##
-- [Shopping list for the Party][https://github.com/dlavric/MarkDown/blob/main/README.md#lets-have-more-fun-and-throw-a-party]
-- [Notes for marking the bought items][]
-- [Dancing Chairs Game][]
-- [Score of Dancing Chairs][]
+- [Shopping list for the Party](https://github.com/dlavric/MarkDown/blob/main/README.md#lets-have-more-fun-and-throw-a-party)
+- [Notes for marking the bought items]()
+- [Dancing Chairs Game]()
+- [Score of Dancing Chairs]()
 
 
 **Good Morning! I will show you the features of MarkDown**
