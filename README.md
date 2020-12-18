@@ -28,7 +28,7 @@ Do you want to find out about MarkDown?
 
 * Pinata: ![Pinata picture](https://images-na.ssl-images-amazon.com/images/I/81wnocFvivL._AC_SL1500_.jpg)
 
-##When the shopping list is completed, please mark the items here:##
+## When the shopping list is completed, please mark the items here: ##
 
 - [ ] Pizza
 - [ ] Beer
