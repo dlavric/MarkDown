@@ -1,5 +1,6 @@
 # MarkDown
-markdown sample
+Markdown sample
+
 
 
 ## Table of contents: ##
