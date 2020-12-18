@@ -14,9 +14,9 @@ Do you want to find out about MarkDown?
 ##### Shopping List for a Party: #####
 
 1.Pizza
-  1. pepperoni
-  2. quatro stagioni
-  3. capriciosa
+  - pepperoni
+  - quatro stagioni
+  - capriciosa
   
 - Beer
   - alcohol
