@@ -13,12 +13,12 @@ Do you want to find out about MarkDown?
 #### Let's have more fun and throw a party! ####
 ##### Shopping List for a Party: #####
 
-1.Pizza
+1. Pizza
   - pepperoni
   - quatro stagioni
   - capriciosa
   
-- Beer
+2. Beer
   - alcohol
   - non-alcohol
   
