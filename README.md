@@ -66,3 +66,8 @@ time.sleep(stand_time)
 print('****TIME UP****') 
 ```
  
+## We will keep the score on this table ##
+
+Still playing | Eliminated
+------------- | ----------
+Gigel | Viorel            
