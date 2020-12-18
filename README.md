@@ -4,9 +4,9 @@ markdown sample
 
 ## Table of contents: ##
 - [Shopping list for the Party](https://github.com/dlavric/MarkDown/blob/main/README.md#lets-have-more-fun-and-throw-a-party)
-- [Notes for marking the bought items]()
-- [Dancing Chairs Game]()
-- [Score of Dancing Chairs]()
+- [Notes for marking the bought items](https://github.com/dlavric/MarkDown/blob/main/README.md#when-the-shopping-list-is-completed-please-mark-the-items-here)
+- [Dancing Chairs Game](https://github.com/dlavric/MarkDown/blob/main/README.md#we-will-play-a-game-called-dancing-chairs)
+- [Score of Dancing Chairs](https://github.com/dlavric/MarkDown/blob/main/README.md#we-will-keep-the-score-on-this-table)
 
 
 **Good Morning! I will show you the features of MarkDown**
