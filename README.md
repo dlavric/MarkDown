@@ -42,7 +42,7 @@ Do you want to find out about MarkDown?
   @kikitux Hopefully you will be at the party :+1:
   
   # We will play a game called **__Dancing Chairs__** #
-  ‘‘‘python
+  ```python
 import time
 import random
 
@@ -63,5 +63,5 @@ print('Stay standing for', stand_time, 'seconds.')
 time.sleep(stand_time) 
 
 print('****TIME UP****') 
-‘‘‘
+```
  
